@@ -1,0 +1,5 @@
+{
+  "name": "Katko.ai Infrastructure Radar",
+  "render_readme": true,
+  "country": ["FI", "SE", "NO", "DK", "DE", "FR", "IT", "ES", "UK", "EE", "LV", "LT", "PL", "AT", "CH", "GR", "RO", "CZ", "HU", "SK", "BG", "HR", "SI", "TR", "UA", "US"]
+}

@@ -1,0 +1,11 @@
+{
+  "domain": "katko",
+  "name": "Katko.ai Infrastructure Radar",
+  "codeowners": ["@katko-ai"],
+  "config_flow": true,
+  "documentation": "https://katko.ai/docs/home-assistant",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/katko-ai/homeassistant/issues",
+  "requirements": [],
+  "version": "1.0.0"
+}
